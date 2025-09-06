@@ -1,6 +1,6 @@
-(<img width="1034" height="239" alt="image" src="https://github.com/user-attachments/assets/1fb9d2f6-ae97-440e-88ca-1d48565cfd5a" />
+<img width="1034" height="239" alt="image" src="https://github.com/user-attachments/assets/1fb9d2f6-ae97-440e-88ca-1d48565cfd5a" />
 
-)
+
 <h1 align="center">Hi 👋, I'm SUMANTH T C</h1>
 <h3 align="center">A passionate Full Stack Developer specializing in crafting powerful, scalable, and elegant digital solutions...</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
