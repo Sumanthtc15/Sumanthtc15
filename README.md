@@ -1,4 +1,4 @@
-![logo](<img width="1034" height="239" alt="image" src="https://github.com/user-attachments/assets/1fb9d2f6-ae97-440e-88ca-1d48565cfd5a" />
+(<img width="1034" height="239" alt="image" src="https://github.com/user-attachments/assets/1fb9d2f6-ae97-440e-88ca-1d48565cfd5a" />
 
 )
 <h1 align="center">Hi 👋, I'm SUMANTH T C</h1>
